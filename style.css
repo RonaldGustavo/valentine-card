@@ -17,6 +17,7 @@ body {
     border-bottom-right-radius: 6px;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 20px;
     background-color: #ff2a22;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
@@ -215,8 +216,8 @@ body {
     display: inline-block;
     font-size: 14px;
     text-transform: uppercase;
-    margin: 20px;
-    margin-top: 50px;
+    margin: 10px;
+    margin-top: 5px;
     padding: 10px;
     line-height: 2em;
     text-decoration: none;
