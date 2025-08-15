@@ -8,4 +8,4 @@ Valentine Card using HTML CSS Jquery
 
 Here is the UI:
 
-![UI Preview](https://github.com/RonaldGustavo/bookself-dicoding-bootcamp-javascript/blob/main/assets/image.png)
+![UI Preview](https://github.com/RonaldGustavo/valentine-card/blob/master/assets/valentine.png)
